@@ -30,7 +30,8 @@ A classic Hangman game with a twist — built using Python's Turtle graphics for
 ## How to Run
 
 ```bash
-# No external dependencies needed — all libraries are Python built-ins
+# install library
+pip install tkinter
 
 # Run the game
 python hangman.py
